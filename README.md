@@ -16,6 +16,8 @@ Here, Our aim is to scan vulnerable web-systems for vulnerabilities using ZAP-AP
 
 - Running the Docker Image for Vulnerable web-system , in my case bwapp-docker.
 
-- Docker image of ZAP running on same network for accessing the same ports to attack or scan web-system using different API's with flags supported according to need.
+- Different API script in Python for required scans.
+
+- Generating Reports in required format (HTML,JSOM,PDF)
 
 
