@@ -1,7 +1,7 @@
 
 # ZAP-penetration-testing
 
-Here, Our aim is to scan vulnerable web-systems for vulnerabilities using ZAP-API service in docker.
+Here, Our aim is to scan vulnerable web-systems for vulnerabilities using ZAP-API service provided by OWASP ZAP Proxy.
 
 
 
