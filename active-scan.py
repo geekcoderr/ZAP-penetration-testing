@@ -7,9 +7,9 @@ from zapv2 import ZAPv2
 
 
 # The URL of the application to be tested
-target = 'http://192.168.43.228/portal.php/'
+target = 'http://192.168.254.209/portal.php/'
 # Change to match the API key set in ZAP, or use None if the API key is disabled
-apiKey = 'f7j5imf51q5qbcrdsi3bgguj36'
+apiKey = 'v5lv4dhu553bjcmn1qdu5kgci7'
 
 zap = ZAPv2(apikey=apiKey, proxies={'http': 'http://127.0.0.1:8081', 'https': 'http://127.0.0.1:8081'})
 
