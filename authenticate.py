@@ -4,6 +4,7 @@ from zapv2 import ZAPv2
 
 context_id = 1
 apiKey = 'f7j5imf51q5qbcrdsi3bgguj36'
+
 context_name = 'Default Context'
 target_url = 'http://localhost:3000'
 
